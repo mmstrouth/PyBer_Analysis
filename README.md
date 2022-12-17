@@ -21,9 +21,12 @@ The line graph titled "Total Fare by City Type" reveals another dimension of PyB
 
 
 ## Summary
-As a result of these analyses, I recommend the following:
-- Increase advertising in rural cities, especially during spring months, to increase ridership
-- 
+As a result of these analyses, I recommend three possibly divergent paths:
+- Increase ride-sharing in rural cities via the following:
+  - Collect data on the circumstances of ride-sharing rural areas to better cater to their needs
+  - Increase advertising in rural cities, especially during spring months, to increase ridership
+- Eliminate ride-sharing in rural areas completely
+- Increase fares in rural areas
 
 
 
